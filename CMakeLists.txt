@@ -182,3 +182,21 @@ add_executable(isValid leetcode/isValid.cpp)
 add_executable(maxTree leetcode/maxTree.cpp)
 
 add_executable(maxWidthOfVerticalAread leetcode/maxWidthOfVerticalAread.cpp)
+
+add_executable(generatePranthesis leetcode/generatePranthesis.cpp)
+
+add_executable(processQueryWIthKey leetcode/processQueryWIthKey.cpp)
+
+add_executable(numTeams leetcode/numTeams.cpp)
+
+add_executable(allPathSourceTarget leetcode/allPathSourceTarget.cpp)
+
+add_executable(closedIsland leetcode/closedIsland.cpp)
+
+add_executable(numRookCapture leetcode/numRookCapture.cpp)
+
+add_executable(countCharacters leetcode/countCharacters.cpp)
+
+add_executable(minStartValue leetcode/minStartValue.cpp)
+
+add_executable(canFormArray leetcode/canFormArray.cpp)
